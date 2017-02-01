@@ -1,7 +1,6 @@
 /*
- * To change this license header, choose License Headers in Project Properties.
- * To change this template file, choose Tools | Templates
- * and open the template in the editor.
+ * Program made by wzuniga - System Engineer
+ * https://github.com/wzuniga/ApiRestJava
  */
 package com.artatlas.cors;
 

@@ -1,7 +1,6 @@
 /*
- * To change this license header, choose License Headers in Project Properties.
- * To change this template file, choose Tools | Templates
- * and open the template in the editor.
+ * Program made by wzuniga - System Engineer
+ * https://github.com/wzuniga/ApiRestJava
  */
 package com.artatlas.constans;
 
@@ -11,7 +10,7 @@ package com.artatlas.constans;
  */
 public class ConfiguratorConstans {
     
-    /*
+    /**
      *  Configuration DataBase
      */
     public static final String DB_USER = "sa";

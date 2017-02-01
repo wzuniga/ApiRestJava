@@ -1,3 +1,7 @@
+/*
+ * Program made by wzuniga - System Engineer
+ * https://github.com/wzuniga/ApiRestJava
+ */
 package com.artatlas.conect;
 
 import com.artatlas.result.ResultConector;
