@@ -1,0 +1,8 @@
+<#if licenseFirst??>
+${licenseFirst}
+</#if>
+${licensePrefix}Program made by wzuniga - System Engineer
+${licensePrefix}https://github.com/wzuniga/ApiRestJava
+<#if licenseLast??>
+${licenseLast}
+</#if>
