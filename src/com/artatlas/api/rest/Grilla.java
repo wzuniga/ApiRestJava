@@ -113,6 +113,7 @@ public class Grilla {
                 return $setData(request);
             } catch (SQLException ex) {
                 Logger.getLogger(Combo.class.getName()).log(Level.SEVERE, null, ex);
+                
                 return "Error 500";
             }
         } catch (JSONException ex) {
@@ -124,7 +125,7 @@ public class Grilla {
     String $setData(String query) throws SQLException {
         ConectorSql conectorSql = new SqlServerConection();
         conectorSql.getConnection();
-
+        
         ResultSet rs = conectorSql.querySQL(query);
         return "test";
     }
